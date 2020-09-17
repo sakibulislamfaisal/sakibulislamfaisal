@@ -28,5 +28,5 @@
 <br/>
 <br/>
 <br/>
-<img width="550px" alt="Foyshal Rahman Github Stats"  src="https://github-readme-stats.vercel.app/api?username=sakibulislamfaisal&show_icons=true"/>
+<img width="550px" alt="Foyshal Rahman Github Stats"  src="https://github-readme-stats.vercel.app/api?username=sakibulislamfaisal&show_icons=false"/>
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=sakibulislamfaisal&card_width=550)](https://github.com/sakibulislamfaisal/sakibulislamfaisal)

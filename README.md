@@ -2,7 +2,7 @@
 
 - I'm a 😍😍 JavaScript Lover 😍😍!!!
 - I’m currently learning everything 
-- ## 2020 Goals : Learn Javascript , React , Redux  ,MongoDB , NodeJS , ExpressJs  ,Firebase , ReactMaterialUI
+- #### 2020 Goals : Learn Javascript , React , Redux  ,MongoDB , NodeJS , ExpressJs  ,Firebase , ReactMaterialUI
 
 ### Connect with me:
 

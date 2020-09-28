@@ -1,8 +1,10 @@
   ### Hi there, I'm  Foyshal Rahman
 
 - I'm a 😍😍 JavaScript Lover 😍😍!!!
-- I’m currently learning everything 
-- #### 2020 Goals : Learn Javascript , React , Redux  ,MongoDB , NodeJS , ExpressJs  ,Firebase , ReactMaterialUI
+- I’m currently working on ... Self learning
+- Ask me about ... Anything
+- <strong>2020 Goals : Learn Javascript , React , Redux  ,MongoDB , NodeJS , ExpressJs  ,Firebase , ReactMaterialUI </strong>
+- <p> <img src="https://komarev.com/ghpvc/?username=sakibulislamfaisal" alt="faisal" /> </p>
 
 ### Connect with me:
 

@@ -36,5 +36,5 @@
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=sakibulislamfaisal&card_width=550)](https://github.com/sakibulislamfaisal/sakibulislamfaisal)
 <br /><br />
-[website]: https://sakibulislamfaisal.github.io/portfolio/
+
 

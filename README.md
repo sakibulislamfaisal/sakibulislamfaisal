@@ -39,4 +39,4 @@
 <br /><br />
 [![Foyshal Rahman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sakibulislamfaisal)](https://github.com/sakibulislamfaisal/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sakibulislamfaisal&margin-w=25&theme=chalk)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sakibulislamfaisal&margin-w=25)](https://github.com/ryo-ma/github-profile-trophy)

@@ -33,7 +33,7 @@
 <br />
 <br />
 
-<img width="550px" alt="Foyshal Rahman Github Stats"  src="https://github-readme-stats.vercel.app/api?username=sakibulislamfaisal&show_icons=true&theme=radical&include_all_commits=true&show_owner=true"/>
+<img width="550px" alt="Foyshal Rahman Github Stats"  src="https://github-readme-stats.vercel.app/api?username=sakibulislamfaisal&show_icons=true&include_all_commits=true&show_owner=true"/>
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=sakibulislamfaisal&card_width=550)](https://github.com/sakibulislamfaisal/sakibulislamfaisal")
 <br /><br />

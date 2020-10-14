@@ -37,6 +37,6 @@
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=sakibulislamfaisal&card_width=550)](https://github.com/sakibulislamfaisal/sakibulislamfaisal")
 <br /><br />
-[![Foyshal Rahman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sakibulislamfaisal)](https://github.com/sakibulislamfaisal/github-readme-stats)
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sakibulislamfaisal&margin-w=25)](https://github.com/ryo-ma/github-profile-trophy)

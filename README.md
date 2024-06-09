@@ -1,7 +1,7 @@
   ### Hi there, I'm  Foyshal Rahman
 
 - I'm a 😍😍 JavaScript Lover 😍😍!!!
-- I’m currently working on ... Sinosoft Company Ltd.
+- I’m currently working in ... Sinosoft Company Ltd.
 - Ask me about ... Anything
 - <strong>Expert in Javascript , Vue Js, React , Redux  ,MongoDB , NodeJS , ExpressJs  ,Firebase , ReactMaterialUI </strong>
 - <p> <img src="https://komarev.com/ghpvc/?username=sakibulislamfaisal" alt="faisal" /> </p>

@@ -1,9 +1,9 @@
   ### Hi there, I'm  Foyshal Rahman
 
 - I'm a 😍😍 JavaScript Lover 😍😍!!!
-- I’m currently working on ... Self learning
+- I’m currently working on ... Sinosoft Company Ltd.
 - Ask me about ... Anything
-- <strong>2022 Goals : Learn Javascript , React , Redux  ,MongoDB , NodeJS , ExpressJs  ,Firebase , ReactMaterialUI </strong>
+- <strong>Expert in Javascript , Vue Js, React , Redux  ,MongoDB , NodeJS , ExpressJs  ,Firebase , ReactMaterialUI </strong>
 - <p> <img src="https://komarev.com/ghpvc/?username=sakibulislamfaisal" alt="faisal" /> </p>
 
 ### Connect with me:
